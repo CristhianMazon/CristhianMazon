@@ -1,4 +1,6 @@
 ## Hi there 👋
+![Cristhian's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=dark)
 
 <!--
 **CristhianMazon/CristhianMazon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
