@@ -2,7 +2,7 @@
 
 # Bem-vindo ao meu GitHub!
 Sou um estudante de ADS com o objetivo de me desenvolver em HTML, CSS, JAVA, JAVASCRIPT e NODE.JS!
-## 🛠️ Tecnologias e Ferramentas
+ 🛠️ Tecnologias e Ferramentas
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
