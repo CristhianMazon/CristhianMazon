@@ -16,8 +16,9 @@ Sou um estudante de ADS com o objetivo de me desenvolver em HTML, CSS, JAVA, JAV
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CristhianMazon&show_icons=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristhianMazon&layout=compact&theme=dark&card_width=450"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristhianMazon&theme=dark"/>
 </p>
+
 
 
 <!---
