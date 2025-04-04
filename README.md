@@ -62,6 +62,7 @@ Atualmente, meu foco é crescer como profissional de tecnologia, aplicando criat
 ## 📬 Como me encontrar:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristhianmazon/)](https://www.linkedin.com/in/cristhianmazon/)
 [![Discord Badge](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white&link=https://discord.com/users/capucio)](https://discord.com/users/capucio)
+[![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/@capucio979)](https://www.youtube.com/@capucio979)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cristhian.s.mazon@gmail.com)](mailto:cristhian.s.mazon@gmail.com)
 
 ---
