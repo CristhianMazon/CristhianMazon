@@ -68,7 +68,7 @@ Atualmente, meu foco é crescer como profissional de tecnologia, aplicando criat
 ---
 
 <div align="center">
- 
+ <img src="https://github-readme-stats.vercel.app/api?username=CristhianMazon&show_icons=true&include_all_commits=true&theme=vue-dark&locale=pt-br&hide_border=false" height="150" alt="Estatísticas GitHub" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CristhianMazon&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=false&order=2" height="150" alt="Linguagens mais usadas" />
   <img src="https://streak-stats.demolab.com?user=CristhianMazon&locale=pt-br&mode=daily&theme=vue-dark&hide_border=false&border_radius=5&order=3" height="150" alt="Streak atual" />
 </div>
